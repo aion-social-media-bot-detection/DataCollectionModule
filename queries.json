@@ -1,0 +1,6 @@
+{
+"StartDate":"2016-10-01",
+"Days" : 1,
+"queries":["hillary","donald trump","trump"],
+"maxTweets":3
+}
